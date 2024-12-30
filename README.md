@@ -1,2 +1,3 @@
-# smartbox-ad-grid-web
-SmartBox AdGrid is the admin front-end for management of SmartBox and Ads. Managing smart boxes, location wise distribution, lost items data, activity log, diagnostics, advertisers, ad media assets, ad scheduling, making it a streamlined platform for tracking lost items, overseeing advertising operations across a network of distributed SmartBoxes.
+# smartbox-ad-grid
+SmartBox AdGrid Web is the React front-end for management of SmartBox and Ads. Managing smart boxes, location wise distribution, lost items data, activity log, diagnostics, advertisers, ad media assets, ad scheduling, making it a streamlined platform for tracking lost items, overseeing advertising operations across a network of distributed SmartBoxes.
+SmartBox AdGrid API serves as a backend of the smart box solution, powered by a cloud-hosted centralized server. It manages Smart Boxes data like location wise distribution, lost items data collection, box activity log, diagnostics and health.
